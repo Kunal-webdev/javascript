@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+   font-size: 10em;
+
+}
+LABEL{
+    margin-left: 700px;
+    font-size: 10em;
+}
+.btn{
+    font-size: 60px;
+    color: black;
+    background-color: aqua;
+    cursor:grab;
+    transition: background-color 0.25s;
+}
+.btn:hover{
+ background-color: rgb(95, 95, 254);
+}
